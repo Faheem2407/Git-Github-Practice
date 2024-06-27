@@ -3,8 +3,10 @@
 ---
 
 |task-name|task-description|  
----
+|-----|-----|
 |newline|use double space|  
+|bold|__text__|
+|italic|_text_|
 |heading|use #|  
 |link|use [title](link)|  
 |singleline code|use `write here`|  
